@@ -12,8 +12,9 @@ _Learning Data Analysis_
 
 _Design-based Research_ 
 
-_Learning Activities_
+_Learning Space_
 
+_Learning Activities & Social Relationships_
 
 
 ### Academic Papers (h-index > 40)
