@@ -12,7 +12,7 @@ _Learning Data Analysis_
 
 _Learning enhanced by Technologies_
 
-_Design-based Research_ 
+_STEM Education_ 
 
 _Learning Space_
 
