@@ -7,9 +7,12 @@ A list of resources and toolkits for Learning Sciences
 * [Unlocking Learning though Cognitive Science with Dr. Marsha Lovett - YouTube](https://www.youtube.com/watch?v=pJbIXGRQ7VE)
 ### Research Subjects
 _Cognitive Science_
+
 _Learning Data Analysis_
-Design-based Research 
-Learning Activities
+
+_Design-based Research_ 
+
+_Learning Activities_
 
 
 
