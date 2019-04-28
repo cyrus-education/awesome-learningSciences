@@ -9,4 +9,6 @@ A list of resources and toolkits for Learning Sciences
 
 ### Books
 
+### Academic Journals
+
 ### Universities, Programs, Institutes
