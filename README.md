@@ -1,6 +1,6 @@
 # awesome-learningSciences
 A list of resources and toolkits for Learning Sciences
 
-#### Definitation
+### Definitation
 
-#### Research Scope
+### Research Scope
