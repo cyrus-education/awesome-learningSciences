@@ -19,7 +19,7 @@ _Learning Space_
 _Learning Activities & Social Relationships_
 
 
-### Academic Papers (h-index > 40)
+### Academic Papers (according to key issues)
 
 ### Books
 
