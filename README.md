@@ -1,5 +1,5 @@
 # awesome-LearningSciences
-A list of resources and toolkits for Learning Sciences
+List of the resources to understand the interdisciplinary field "learning sciences". 
 
 ### Definition
 * [What is Learning Science from an Educator's Perspective? - YouTube](https://www.youtube.com/watch?v=YFAFnbfKnRU)
