@@ -31,3 +31,7 @@ _Learning Activities & Social Relationships_
 
 
 ### Interesting Projects
+
+* [Learning by teaching: A new agent paradigm for educational software](http://www.compassproject.net/sadhana/Teaching/readings/Biswasaai-journal2005.pdf)
+* [Designing Learning by Teaching Agents The Betty’s Brain System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.606.8020&rep=rep1&type=pdf)
+* [Gautam Biswas | Profile | School of Engineering | Vanderbilt University](https://engineering.vanderbilt.edu/bio/gautam-biswas)
