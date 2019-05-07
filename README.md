@@ -1,4 +1,4 @@
-# awesome-learningSciences
+# awesome-LearningSciences
 A list of resources and toolkits for Learning Sciences
 
 ### Definition
