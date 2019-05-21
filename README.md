@@ -1,7 +1,7 @@
 # awesome-LearningSciences
 List of the resources to understand the interdisciplinary field "learning sciences". 
 
-### Definition
+### Definition: What is learning sciences
 * [Learning Sciences Institute - YouTube](https://www.youtube.com/watch?v=JPeysRl8m0U)
 * [What is Learning Science from an Educator's Perspective? - YouTube](https://www.youtube.com/watch?v=YFAFnbfKnRU)
 * [How Can Learning Science Help Improve Teaching ? - YouTube](https://www.youtube.com/watch?v=2irinfivjfY)
