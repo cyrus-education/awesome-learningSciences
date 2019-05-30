@@ -33,6 +33,7 @@ _Learning Activities & Social Relationships_
 
 ### Related Methodology
 
+* [NAPLeS Programs - ISLS NAPLES Network - LMU Munich](http://isls-naples.psy.lmu.de/members/programs/index.html)
 
 ### Interesting Projects
 
