@@ -34,6 +34,8 @@ _Learning Activities & Social Relationships_
 ### Related Methodology
 
 * [NAPLeS Programs - ISLS NAPLES Network - LMU Munich](http://isls-naples.psy.lmu.de/members/programs/index.html)
+* [Roy Pea - Learning in a Networked World - YouTube](https://www.youtube.com/watch?v=SJCisId2wI0&t=131s)
+
 
 ### Interesting Projects
 
