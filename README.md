@@ -16,6 +16,8 @@ _Learning Data Analysis_
 
 _Learning enhanced by Technologies_
 
+* [Using Technology to Teach Science - NSTA 2015 - YouTube](https://www.youtube.com/watch?v=gt0yZHAbKUc)
+* [Transformative Learning and Teaching with Technology: Video Games & Education](https://www.youtube.com/watch?v=VbR6dr6ZVaw)
 _STEM Education_ 
 
 _Learning Space_
