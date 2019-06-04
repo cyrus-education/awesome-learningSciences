@@ -25,6 +25,10 @@ _Learning Space_
 _Learning Activities & Social Relationships_
 
 
+_Learning & Game Design_
+* [VR: Changing World Views | Myra Roldan | TEDxPSU - YouTube](https://www.youtube.com/watch?v=CtW11JtnxGM)
+
+
 ### Academic Papers (according to key issues)
 
 ### Books
