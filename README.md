@@ -29,6 +29,8 @@ _Learning & Game Design_
 * [VR: Changing World Views | Myra Roldan | TEDxPSU - YouTube](https://www.youtube.com/watch?v=CtW11JtnxGM)
 
 
+* [Technology Panel: Role of Tech in Education - YouTube](https://www.youtube.com/watch?v=Op8-6NcZOAk)
+
 ### Academic Papers (according to key issues)
 
 ### Books
