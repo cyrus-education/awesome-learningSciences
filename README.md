@@ -6,6 +6,7 @@ List of the resources to understand the interdisciplinary field "learning scienc
 * [What is Learning Science from an Educator's Perspective? - YouTube](https://www.youtube.com/watch?v=YFAFnbfKnRU)
 * [How Can Learning Science Help Improve Teaching ? - YouTube](https://www.youtube.com/watch?v=2irinfivjfY)
 * [Unlocking Learning though Cognitive Science with Dr. Marsha Lovett - YouTube](https://www.youtube.com/watch?v=pJbIXGRQ7VE)
+* [Learning Sciences at UIC - YouTube](https://www.youtube.com/watch?v=gHQcXwhO7Jw)
 
 ### The Neuroscience of Learning
 * [The Science of Learning: How to Turn Information into Intelligence | Barbara Oakley - YouTube](https://www.youtube.com/watch?v=1FvYJhpNvHY)
